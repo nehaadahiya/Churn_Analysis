@@ -39,7 +39,7 @@ Group by Customer_Status;
 
 #### Overall Churn Dashboard
 
-![Dashboard Screenshot](/)
+![Dashboard Screenshot](/output_dashboard_powerbi.png)
 
 ### Dashboard Features
 
